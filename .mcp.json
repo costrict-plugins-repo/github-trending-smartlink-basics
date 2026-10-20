@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "smartlink-basics-crm": {
+      "type": "http",
+      "url": "https://mcp.smartlinkbasics.com",
+      "oauth": {
+        "clientId": "c07352f7-0242-4007-8b47-c630e3ea0a3d",
+        "callbackPort": 8765
+      }
+    }
+  }
+}
